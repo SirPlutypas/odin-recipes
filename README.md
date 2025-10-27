@@ -1,6 +1,8 @@
 # odin-recipes
 
-The goal of this project is to build a basic recipe website with only HTML at first.
+The goal of this project is to build a basic recipe website with only HTML.
+
+All images are in the public domain.
 
 - Recipes credits:
     - Vanilla Cinnamon Protein Pancakes by skinnymom (https://www.allrecipes.com/recipe/260544/vanilla-cinnamon-protein-pancakes/)
